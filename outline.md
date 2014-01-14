@@ -6,12 +6,13 @@
 -- "Repository"
 
 - Git setup
--- .gitconfig
--- GitHub
---- edu account
--- ssh keys
---- create
---- add to GitHub
+ - .gitconfig
+ - GitHub
+  - edu account
+  - gui's
+ - ssh keys
+  - create
+  - add to GitHub
 
 - git init
 
