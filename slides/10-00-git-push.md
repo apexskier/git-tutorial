@@ -5,3 +5,5 @@
   - `-u` stands for upstream.
   - Sets default push / pull location.
 - `git push`
+
+[back](09-02-viewing-remotes.md) [next](11-00-git-pull.md)
