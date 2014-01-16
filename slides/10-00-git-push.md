@@ -6,4 +6,4 @@
   - Sets default push / pull location.
 - `git push`
 
-[back](09-02-viewing-remotes.md) [next](11-00-git-pull.md)
+[back](09-03-cloning.md) [next](11-00-git-pull.md)
