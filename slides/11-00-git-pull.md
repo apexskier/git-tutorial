@@ -1,4 +1,4 @@
-# Git pull
+# `git pull`
 
 - Gets changes from remote.
 - `git pull`

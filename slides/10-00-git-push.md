@@ -1,4 +1,4 @@
-# Git push
+# `git push`
 
 - Send changes to a remote.
 - `git push -u`
